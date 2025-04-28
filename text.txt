@@ -1,1 +1,2 @@
 This is an edited text with the purpose of testing.
+I'm writing a second line of text on this document
