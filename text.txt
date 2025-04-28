@@ -1,2 +1,6 @@
 This is an edited text with the purpose of testing.
+<<<<<<< HEAD
 I'm writing a second line of text on this document
+=======
+This is another text just because.
+>>>>>>> 9b0a04b090054924d5c44703e11c5f8df2e19782
